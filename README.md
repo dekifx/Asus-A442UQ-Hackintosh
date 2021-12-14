@@ -54,6 +54,6 @@ And lastly validate the config with [Sanity Checker](https://opencore.slowgeek.c
 - The Dortania Team for OpenCore Guides.
 - maz-1 for the Combo Jack Fix repositories and VerbStub.kext.
 - IlhamSevensky for the Fn Keys Patch on OpenCore Bootloader.
-- corpnewt for SSDTTime and many othe hotpatches.
+- corpnewt for SSDTTime and many other hotpatches.
 - headkaze for Hackintool.
 - The whole hackintosh community and many more people that I can't state here.
