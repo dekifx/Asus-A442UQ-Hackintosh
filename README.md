@@ -56,4 +56,4 @@ And lastly validate the config with [Sanity Checker](https://opencore.slowgeek.c
 - IlhamSevensky for the Fn Keys Patch on OpenCore Bootloader.
 - corpnewt for SSDTTime and many othe hotpatches.
 - headkaze for Hackintool.
-- The whole hackintosh communtiy and many more people that I can't state here.
+- The whole hackintosh community and many more people that I can't state here.
