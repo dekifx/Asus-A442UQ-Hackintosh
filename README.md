@@ -31,6 +31,13 @@ UEFI BIOS |	X442UQR.300
 - etc.
 
 ## General Guides
+- Download a copy of OpenCore latest releases and replace the following files from this repository
+  - EFI/BOOT/BOOTx64.efi
+  - EFI/OC/OpenCore.efi
+  - EFI/OC/Drivers/OpenRuntime
+
+  with the ones from the latest OpenCore release, and don't forget to adjust as well as compare my config.plist file with the sample.plist from latest OpenCore     release.
+And lastly validate the config with [Sanity Checker](https://opencore.slowgeek.com/), and [ocvalidate](https://github.com/acidanthera/OpenCorePkg/tree/master/Utilities/ocvalidate).
 - I advise you to go to [Dortania's Opencore Guide](https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html) for a better understanding with OpenCore Configurations.
 - Unlock MSR 0xE2 Register using OpenCore's ControlMsrE2.efi
 - Generate your own SMBIOS and Platform Info (Serial Number, etc) before booting with this configuration.
@@ -49,4 +56,4 @@ UEFI BIOS |	X442UQR.300
 - IlhamSevensky for the Fn Keys Patch on OpenCore Bootloader.
 - corpnewt for SSDTTime and many othe hotpatches.
 - headkaze for Hackintool.
-- The whole hackintosh communtiy and many mnore people that I can't state here.
+- The whole hackintosh communtiy and many more people that I can't state here.
